@@ -8,7 +8,7 @@
  * file that was distributed with this source code.
  */
 
-require __DIR__.'/classes/Swift.php';
+require_once __DIR__.'/classes/Swift.php';
 
 Swift::registerAutoload(function () {
     // Load in dependency maps
