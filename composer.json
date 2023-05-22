@@ -1,6 +1,7 @@
 {
     "name": "swiftmailer/swiftmailer",
     "type": "library",
+    "version": "1.0.0",
     "description": "Swiftmailer, free feature-rich PHP mailer",
     "keywords": ["mail","mailer","email"],
     "homepage": "https://swiftmailer.symfony.com",
