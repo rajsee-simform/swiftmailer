@@ -1,5 +1,8 @@
 <?php
 
+$root_dir = ProjectConfiguration::getActive()->getRootDir() ;
+require_once "$root_dir/lib/vendor/autoload.php";
+
 /*
  * This file is part of SwiftMailer.
  * (c) 2004-2009 Chris Corbyn
